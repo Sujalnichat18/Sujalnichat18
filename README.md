@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧑‍💻 About Me:
 👋 Hi, I’m @Sujalnichat18<br>👀 I’m interested in Web Development<br>🌱 I’m currently learning Full Stack Web Development
 
 
