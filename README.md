@@ -87,7 +87,7 @@ Become a Software Engineer capable of building scalable and production-ready app
 ## Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
