@@ -35,7 +35,6 @@
 🌱 Currently learning
 
 - Docker
-- Linux
 - GitHub Actions
 - CI/CD
 - AWS Fundamentals
@@ -72,7 +71,7 @@ Become a Software Engineer capable of building scalable and production-ready app
 ## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=flask" />
+<img src="https://skillicons.dev/icons?i=python,js" />
 </p>
 
 ---
@@ -96,7 +95,7 @@ Become a Software Engineer capable of building scalable and production-ready app
 ## Currently Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,linux,bash,githubactions,aws" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,aws" />
 </p>
 
 ---
@@ -186,8 +185,6 @@ Collection of JavaScript exercises and mini projects for strengthening programmi
 
 ✔ Python
 
-✔ Flask
-
 ✔ MySQL
 
 ✔ Git
@@ -255,16 +252,6 @@ Artificial Intelligence & Data Science
 
 ---
 
-# 📈 2026 Goals
-
-- Build production-ready projects
-- Learn Docker & Kubernetes
-- Learn AWS
-- Master CI/CD
-- Contribute to Open Source
-- Land a Software Engineering role
-
----
 
 # 🌐 Connect With Me
 
