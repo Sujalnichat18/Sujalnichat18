@@ -1,30 +1,36 @@
-# Hi, I'm Sujal Nichat 👋
-
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Engineer;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+into+Meaningful+Insights" alt="Typing SVG" />
+<h1>𝐒𝐔𝐉𝐀𝐋 𝐍𝐈𝐂𝐇𝐀𝐓</h1>
 
-  <p>
-    <b>AI & Data Science Engineering Graduate | Aspiring Data Analyst</b>
-  </p>
+  <!-- Professional Tagline -->
+  <h3>AI & DATA SCIENCE ENGINEER</h3>
 
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=A9B8D0&center=true&vCenter=true&width=650&height=35&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+into+Meaningful+Insights" />
+
+  <br/>
+
+  <!-- Contact Buttons -->
   <a href="https://linkedin.com/in/sujal-nichat-1811sn/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://myselfsujalnichat.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:sujalnichat1109@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/Sujalnichat18">
-  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://myselfsujalnichat.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-20232A?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:sujalnichat1109@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sujalnichat18">
+    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/FOCUS-DATA%20ANALYTICS-36BCF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/OPEN%20TO-FRESHER%20OPPORTUNITIES-238636?style=flat-square" />
 
 </div>
+
+---
 
 ---
 
